@@ -59,4 +59,4 @@ This repository is for packaged builds only:
 - install notes
 - changelog
 
-The source code stays in a separate private repository.
+The source code stays in a separate private repository; this public repository intentionally exposes only packaged app releases and release notes.
