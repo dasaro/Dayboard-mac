@@ -1,6 +1,6 @@
 # Dayboard for macOS
 
-Private distribution repository for packaged Dayboard builds.
+Public distribution repository for packaged Dayboard builds.
 
 This repository contains downloadable macOS app builds, release notes, and installation guidance. It does not contain the Dayboard source code.
 
@@ -17,13 +17,13 @@ Core principles:
 
 ## Download
 
-Use the private [Releases](https://github.com/dasaro/Dayboard-mac/releases) page to download the latest packaged app.
+Use the [Releases](https://github.com/dasaro/Dayboard-mac/releases) page to download the latest packaged app.
 
 Current packaged build:
 
-- release: `v2026.03.22-e8756a9`
-- asset: `Dayboard-macOS-v2026.03.22-e8756a9.zip`
-- source commit: `e8756a9`
+- release: `v2026.04.01-84d0a97`
+- asset: `Dayboard-macOS-v2026.04.01-84d0a97.zip`
+- source commit: `84d0a97`
 
 ## Install
 
